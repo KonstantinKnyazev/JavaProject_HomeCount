@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<data>
+    <accounts>
+        <currency>
+            <base>true</base>
+            <code>CAD</code>
+            <on>true</on>
+            <rate>1.0</rate>
+            <title>Canadian dollar</title>
+        </currency>
+        <startAmount>1000.0</startAmount>
+        <title>Check account Bank AAA</title>
+    </accounts>
+    <accounts>
+        <currency>
+            <base>true</base>
+            <code>CAD</code>
+            <on>true</on>
+            <rate>1.0</rate>
+            <title>Canadian dollar</title>
+        </currency>
+        <startAmount>3000.0</startAmount>
+        <title>Saving account Bank AAA CanDollar</title>
+    </accounts>
+    <accounts>
+        <currency>
+            <base>false</base>
+            <code>USD</code>
+            <on>true</on>
+            <rate>1.313499043659389</rate>
+            <title>Dollar</title>
+        </currency>
+        <startAmount>1000.0</startAmount>
+        <title>Saving account Bank AAA US Dollar</title>
+    </accounts>
+    <accounts>
+        <currency>
+            <base>true</base>
+            <code>CAD</code>
+            <on>true</on>
+            <rate>1.0</rate>
+            <title>Canadian dollar</title>
+        </currency>
+        <startAmount>1000.0</startAmount>
+        <title>Visa- cart Bank AAA</title>
+    </accounts>
+    <accounts>
+        <currency>
+            <base>true</base>
+            <code>CAD</code>
+            <on>true</on>
+            <rate>1.0</rate>
+            <title>Canadian dollar</title>
+        </currency>
+        <startAmount>200.0</startAmount>
+        <title>Wallet</title>
+    </accounts>
+    <articles>
+        <title>Foods</title>
+    </articles>
+    <articles>
+        <title>Home</title>
+    </articles>
+    <articles>
+        <title>Resto</title>
+    </articles>
+    <articles>
+        <title>Salary</title>
+    </articles>
+    <currencies>
+        <base>true</base>
+        <code>CAD</code>
+        <on>true</on>
+        <rate>1.0</rate>
+        <title>Canadian dollar</title>
+    </currencies>
+    <currencies>
+        <base>false</base>
+        <code>USD</code>
+        <on>true</on>
+        <rate>1.313499043659389</rate>
+        <title>Dollar</title>
+    </currencies>
+    <currencies>
+        <base>false</base>
+        <code>EUR</code>
+        <on>false</on>
+        <rate>1.462449353405756</rate>
+        <title>Euro</title>
+    </currencies>
+    <transactions>
+        <account>
+            <currency>
+                <base>true</base>
+                <code>CAD</code>
+                <on>true</on>
+                <rate>1.0</rate>
+                <title>Canadian dollar</title>
+            </currency>
+            <startAmount>1000.0</startAmount>
+            <title>Check account Bank AAA</title>
+        </account>
+        <amount>-900.0</amount>
+        <arcticle>
+            <title>Home</title>
+        </arcticle>
+        <date>2019-12-07T00:00:00-05:00</date>
+        <notice></notice>
+    </transactions>
+    <transactions>
+        <account>
+            <currency>
+                <base>true</base>
+                <code>CAD</code>
+                <on>true</on>
+                <rate>1.0</rate>
+                <title>Canadian dollar</title>
+            </currency>
+            <startAmount>200.0</startAmount>
+            <title>Wallet</title>
+        </account>
+        <amount>-10.0</amount>
+        <arcticle>
+            <title>Resto</title>
+        </arcticle>
+        <date>2019-12-07T00:00:00-05:00</date>
+        <notice>Mac Donalds</notice>
+    </transactions>
+    <transactions>
+        <account>
+            <currency>
+                <base>true</base>
+                <code>CAD</code>
+                <on>true</on>
+                <rate>1.0</rate>
+                <title>Canadian dollar</title>
+            </currency>
+            <startAmount>1000.0</startAmount>
+            <title>Check account Bank AAA</title>
+        </account>
+        <amount>1000.0</amount>
+        <arcticle>
+            <title>Salary</title>
+        </arcticle>
+        <date>2019-12-05T00:00:00-05:00</date>
+        <notice>Company ABC salary</notice>
+    </transactions>
+    <transactions>
+        <account>
+            <currency>
+                <base>true</base>
+                <code>CAD</code>
+                <on>true</on>
+                <rate>1.0</rate>
+                <title>Canadian dollar</title>
+            </currency>
+            <startAmount>1000.0</startAmount>
+            <title>Visa- cart Bank AAA</title>
+        </account>
+        <amount>-170.0</amount>
+        <arcticle>
+            <title>Foods</title>
+        </arcticle>
+        <date>2019-12-05T00:00:00-05:00</date>
+        <notice></notice>
+    </transactions>
+    <transactions>
+        <account>
+            <currency>
+                <base>true</base>
+                <code>CAD</code>
+                <on>true</on>
+                <rate>1.0</rate>
+                <title>Canadian dollar</title>
+            </currency>
+            <startAmount>1000.0</startAmount>
+            <title>Visa- cart Bank AAA</title>
+        </account>
+        <amount>-150.0</amount>
+        <arcticle>
+            <title>Foods</title>
+        </arcticle>
+        <date>2019-11-29T00:00:00-05:00</date>
+        <notice></notice>
+    </transactions>
+    <transactions>
+        <account>
+            <currency>
+                <base>true</base>
+                <code>CAD</code>
+                <on>true</on>
+                <rate>1.0</rate>
+                <title>Canadian dollar</title>
+            </currency>
+            <startAmount>1000.0</startAmount>
+            <title>Visa- cart Bank AAA</title>
+        </account>
+        <amount>-160.0</amount>
+        <arcticle>
+            <title>Foods</title>
+        </arcticle>
+        <date>2019-11-22T00:00:00-05:00</date>
+        <notice></notice>
+    </transactions>
+    <transactions>
+        <account>
+            <currency>
+                <base>true</base>
+                <code>CAD</code>
+                <on>true</on>
+                <rate>1.0</rate>
+                <title>Canadian dollar</title>
+            </currency>
+            <startAmount>1000.0</startAmount>
+            <title>Check account Bank AAA</title>
+        </account>
+        <amount>1000.0</amount>
+        <arcticle>
+            <title>Salary</title>
+        </arcticle>
+        <date>2019-11-21T00:00:00-05:00</date>
+        <notice>Company ABC salary</notice>
+    </transactions>
+    <transactions>
+        <account>
+            <currency>
+                <base>true</base>
+                <code>CAD</code>
+                <on>true</on>
+                <rate>1.0</rate>
+                <title>Canadian dollar</title>
+            </currency>
+            <startAmount>1000.0</startAmount>
+            <title>Visa- cart Bank AAA</title>
+        </account>
+        <amount>-10.0</amount>
+        <arcticle>
+            <title>Resto</title>
+        </arcticle>
+        <date>2019-11-20T00:00:00-05:00</date>
+        <notice>Tim Hortons</notice>
+    </transactions>
+    <transactions>
+        <account>
+            <currency>
+                <base>true</base>
+                <code>CAD</code>
+                <on>true</on>
+                <rate>1.0</rate>
+                <title>Canadian dollar</title>
+            </currency>
+            <startAmount>1000.0</startAmount>
+            <title>Visa- cart Bank AAA</title>
+        </account>
+        <amount>-150.0</amount>
+        <arcticle>
+            <title>Foods</title>
+        </arcticle>
+        <date>2019-11-15T00:00:00-05:00</date>
+        <notice></notice>
+    </transactions>
+    <transactions>
+        <account>
+            <currency>
+                <base>true</base>
+                <code>CAD</code>
+                <on>true</on>
+                <rate>1.0</rate>
+                <title>Canadian dollar</title>
+            </currency>
+            <startAmount>1000.0</startAmount>
+            <title>Visa- cart Bank AAA</title>
+        </account>
+        <amount>-210.0</amount>
+        <arcticle>
+            <title>Foods</title>
+        </arcticle>
+        <date>2019-11-08T00:00:00-05:00</date>
+        <notice></notice>
+    </transactions>
+    <transactions>
+        <account>
+            <currency>
+                <base>true</base>
+                <code>CAD</code>
+                <on>true</on>
+                <rate>1.0</rate>
+                <title>Canadian dollar</title>
+            </currency>
+            <startAmount>1000.0</startAmount>
+            <title>Check account Bank AAA</title>
+        </account>
+        <amount>1000.0</amount>
+        <arcticle>
+            <title>Salary</title>
+        </arcticle>
+        <date>2019-11-07T00:00:00-05:00</date>
+        <notice>Company ABC salary</notice>
+    </transactions>
+    <transactions>
+        <account>
+            <currency>
+                <base>true</base>
+                <code>CAD</code>
+                <on>true</on>
+                <rate>1.0</rate>
+                <title>Canadian dollar</title>
+            </currency>
+            <startAmount>1000.0</startAmount>
+            <title>Check account Bank AAA</title>
+        </account>
+        <amount>-900.0</amount>
+        <arcticle>
+            <title>Home</title>
+        </arcticle>
+        <date>2019-11-04T00:00:00-05:00</date>
+        <notice></notice>
+    </transactions>
+    <transactions>
+        <account>
+            <currency>
+                <base>true</base>
+                <code>CAD</code>
+                <on>true</on>
+                <rate>1.0</rate>
+                <title>Canadian dollar</title>
+            </currency>
+            <startAmount>1000.0</startAmount>
+            <title>Visa- cart Bank AAA</title>
+        </account>
+        <amount>-200.0</amount>
+        <arcticle>
+            <title>Foods</title>
+        </arcticle>
+        <date>2019-11-01T00:00:00-04:00</date>
+        <notice></notice>
+    </transactions>
+    <transfers>
+        <date>2019-12-07T00:00:00-05:00</date>
+        <fromAccount>
+            <currency>
+                <base>true</base>
+                <code>CAD</code>
+                <on>true</on>
+                <rate>1.0</rate>
+                <title>Canadian dollar</title>
+            </currency>
+            <startAmount>1000.0</startAmount>
+            <title>Check account Bank AAA</title>
+        </fromAccount>
+        <fromAmount>2000.0</fromAmount>
+        <notice></notice>
+        <toAccount>
+            <currency>
+                <base>true</base>
+                <code>CAD</code>
+                <on>true</on>
+                <rate>1.0</rate>
+                <title>Canadian dollar</title>
+            </currency>
+            <startAmount>1000.0</startAmount>
+            <title>Visa- cart Bank AAA</title>
+        </toAccount>
+        <toAmount>2000.0</toAmount>
+    </transfers>
+</data>

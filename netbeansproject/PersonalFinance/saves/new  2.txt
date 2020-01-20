@@ -1,0 +1,122 @@
+Supprimer
+ Ok
+ Annuler
+Titre
+La monnaie
+Solde initial
+Date
+Compte
+L'article
+Montant
+
+Montant de départ
+               date de début
+                Compte
+             Article
+                Montant
+                Remarquer
+            Du compte
+           Estimer
+montant
+                De quantité
+               Pour constituer
+                Code
+               Taux
+                Sur
+                Base
+                Solde monétaire;
+                Solde total
+                Solde total de tous les comptes dans une devise
+                Liste de tous les comptes d'utilisateurs
+Liste des transactions récentes des utilisateurs
+Enregistrement de transaction utilisateur pour la période
+Liste des dépenses des utilisateurs
+Liste de transfert d'argent des utilisateurs
+Liste des devises utilisateur
+Trier sur clic
+Nom des comptes d'utilisateurs
+Le solde de chaque compte
+Date de la transaction
+Compte à partir duquel l'argent a été dépensé ou vers lequel l'argent a été reçu
+Élément défini par l'utilisateur
+Montant de la transaction
+Détails de fonctionnement supplémentaires
+Le nom des postes de dépenses-revenus
+Date de transfert
+Le compte à partir duquel l'argent a été transféré
+Compte sur lequel l'argent a été transféré
+Montant débité du compte
+Montant crédité sur le compte
+Informations supplémentaires sur le transfert d'argent
+Nom de la devise
+Code de devise international universel
+Taux de change par rapport à la devise de base actuelle
+La devise est-elle disponible pour utilisation
+Est la devise de base pour le calcul "
+Сумма остатка на каждом счете
+Сумма остатка на каждом счете
+Сумма остатка на каждом счете
+Ouvrir
+sauver
+Annuler
+Dossier:
+Nom de fichier:
+Type de fichier:
+Up
+Accueil
+Nouveau répertoire
+liste
+Table
+prénom
+Taille
+Type
+Rendez-vous amoureux
+Les attributs
+Tous les fichiers
+Rendez-vous amoureux
+Compte
+De
+À
+Article
+Amoun
+Argent retiré
+Reçu
+Remarque
+Titre
+Code
+Taux
+Sur
+Base
+Comptes
+Des articles
+Devises
+Transactions
+Transferts d'argent
+Transactions récentes
+Statistiques
+Aucune donnée pour la période sélectionnée
+Revenus
+Dépenses pour les articles
+Données non enregistrées. Voulez-vous vraiment quitter sans enregistrer les modifications? Toutes les données non enregistrées seront perdues!
+Confirmation de sortie "
+Données non enregistrées. Voulez-vous vraiment télécharger de nouvelles données sans enregistrer les modifications? Toutes les données non enregistrées seront perdues!
+Confirmation de téléchargement des données
+Confirmation de suppression
+Voulez-vous vraiment supprimer cette entrée?
+dollar canadien
+Dollars américain
+euro
+Livre sterling
+Yen chinois
+Rouble biélorusse
+Rouble russe
+Tenge du Kazakhstan
+Hryvnia ukrainienne
+Bolivar vénézuélien
+Dirham marocain
+Peso philippin
+Peso colombien
+"Peso cubain
+Peso mexicain
+Shekel israélien
+Yen japonais
